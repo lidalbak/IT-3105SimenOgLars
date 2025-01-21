@@ -1,0 +1,20 @@
+{
+    "Plant": "Bathtub",
+    "Controller": "Classic",
+    "Neural_network_layers": 6,
+    "Neural_network_depth": 10,
+    "Neural_network_activation_function": "Relu",
+    "Neural_network_param_range_weights": [0.05,0.2],
+    "Neural_network_param_range_bias": [0,0.005],
+    "Epochs": 500,
+    "Simulation_steps_per_epoch": 10,
+    "Learning_rate": 0.001,
+    "Disturbance_range": [-0.01,0.01],
+    "Bathtub_area": 150,
+    "Bathtub_cross_sectional_area": 10,
+    "Bathtub_height":200,
+    "Bathtub_gravity": 9.81,
+    "Cournot_max_price": 3,
+    "Cournot_marginal_cost": 0.1,
+    "Cournot_target": 0.5
+}
